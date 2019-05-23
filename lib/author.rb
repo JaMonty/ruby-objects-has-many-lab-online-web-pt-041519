@@ -26,6 +26,8 @@ class Author
     @@all << post 
     post.author = self
   end 
+  
+  
 
 def self.post_count
     @@all.length
