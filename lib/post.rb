@@ -17,13 +17,7 @@ class Post
     author.name if author
   end
   
-  # def author_name
-  #   if self.author.nil?
-  #     nil 
-  #   else
-  #     self.author.name  
-  #   end
-  # end 
+ 
     
     
    
